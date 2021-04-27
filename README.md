@@ -1,6 +1,5 @@
-# Multitask Recalibrated Aggregation Network for Medical Code Prediction (MT-RAM)
-To reproduce the results of the paper [Multitask Recalibrated Aggregation Network](https://arxiv.org/abs/2104.00952), we present this code repository.
-
+# Multi-task Learning for Medical Coding
+Project code in ELEC-E5550 Statistical Natural Language Processing D
 ## Highlight
 
 - **Code Associations** The multi-task learning scheme to capture the relationship between different medical codes. 
